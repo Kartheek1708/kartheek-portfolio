@@ -8,8 +8,8 @@ const NAME_1 = "Pallerla";
 const NAME_2 = "Kartheekreddy";
 const ROLES = ["Full stack developer", "GenAI developer", "LLM app builder", "MERN stack learner"];
 const LINKS = {
-    github: "https://github.com/YOUR-USERNAME",      // <- mee GitHub link pettandi
-    linkedin: "https://linkedin.com/in/YOUR-USERNAME", // <- mee LinkedIn link pettandi
+    github: "https://github.com/Kartheek1708",      // <- mee GitHub link pettandi
+    linkedin: "https://www.linkedin.com/in/kartheekreddypallerla/?isSelfProfile=true", // <- mee LinkedIn link pettandi
 };
 const NAV = ["Projects", "Skills", "Education", "Contact"];
 /* =================================================== */
